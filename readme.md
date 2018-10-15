@@ -3,7 +3,7 @@
 Define the deployment variables used by the subsequent Azure CLI commands
 
 ```bash
-resource_group=vmsa-us-west2
+resource_group=storage1-us-west2
 deployment_name=testdeployment
 location=westus2
 ```
